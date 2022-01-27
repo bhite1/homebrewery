@@ -1,0 +1,11 @@
+<img src='http://thekoalition.com/images/2016/06/the-technomancer.jpg' style='position:absolute;width:725px; bottom:0px; right:50px'>
+<img src='http://i.imgur.com/nzPYZyD.png' style='position:absolute;width:1125px; bottom:-400px; right:-155px'>
+<img src='http://i.imgur.com/nzPYZyD.png' style='position:absolute;width:1625px; bottom:-720px; right:-405px'>
+<img src='http://i.imgur.com/rpxNZV5.png' style='position:absolute;width:325px; bottom:350px; right:255px; transform: rotate(0deg); filter: opacity(100%) hue-rotate(0deg) brightness(100%) contrast(100%) saturate(100%)'>
+
+1. This will be the focus image for our document. I used a technomancer.
+2. The first ring of watercoloring, sized to fit the desired area of the technomancer image.
+3. The second ring of watercoloring, sized slightly larger than the first ring, but similarly centered on desired area of technomancer. This is meant to blend out much of the excess left over by the first ring.
+4. A small watercolor brush placed to fill the small gap that remained after the second ring was placed.
+
+It is notable that all of the images have absolute positioning and are layered from first to last (meaning the first image is bottom and last image is top). I adjusted the bottom, right, and width properties to get the right look, and you will have to do the same for your images regardless of placement.
